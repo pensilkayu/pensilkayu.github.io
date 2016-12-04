@@ -7,6 +7,14 @@ body{
 .navbar{
   margin-bottom: 0 !important;
 }
+
+jumbotron {
+      background-color: #0F2237;
+      color: #fff;
+      padding: 100px 25px;
+      font-family: Montserrat, sans-serif;
+}
+
 .carousel{
   width: 100%;
   max-height: 580px !important;
